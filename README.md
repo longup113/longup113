@@ -2,15 +2,17 @@
 <h1>Hi there👋, I'm Lò Tiến Thành! (known as OG)</h1> 
 
 
-Connect me:smiling_imp:/n
-- Gmail : @gmail.com
+Connect me:smiling_imp:
+- Gmail : nightowl0202@gmail.com
 
-What i like to do :grinning:: /n
+What i like to do :grinning:: 
 - Breaking ipHop, Football, Travel,... Sometime i play CTF.
-Tecnical: :computer: : /n
+
+
+Tecnical: :computer: : 
 - Sercurity
-- loud Computing
-- etworking
+- Cloud Computing
+- Networking
 
 		
 
